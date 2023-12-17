@@ -1062,5 +1062,10 @@ body {
   font-weight: 600;
 }
 
+.revers-label {
+  width: 100%;
+  text-align: end;
+}
+
 
 /*# sourceMappingURL=style.css.map */
