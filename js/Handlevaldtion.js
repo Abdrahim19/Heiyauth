@@ -95,12 +95,12 @@ function redirect() {
         import { addDoc, collection } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
  
         const firebaseConfig = {
-          apiKey: "AIzaSyAsO8amTJnzVndoz0uRfVlGifgHDE0mUkM",
-          authDomain: "heyauth-4a3ab.firebaseapp.com",
-          projectId: "heyauth-4a3ab",
-          storageBucket: "heyauth-4a3ab.appspot.com",
-          messagingSenderId: "943518805455",
-          appId: "1:943518805455:web:5b387e0e94d55fa572f6ba"
+          apiKey: "AIzaSyAeLfg_Ho89I5-cXu5Akzzu5VAgECI93dM",
+          authDomain: "authentication-30a96.firebaseapp.com",
+          projectId: "authentication-30a96",
+          storageBucket: "authentication-30a96.appspot.com",
+          messagingSenderId: "438015307304",
+          appId: "1:438015307304:web:a7fdab8b38571e87c94f1d"
         };
       
         // Initialize Firebase
